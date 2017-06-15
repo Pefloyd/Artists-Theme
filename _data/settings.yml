@@ -1,15 +1,15 @@
 #-------------------------------
 # General Site Settings
 
-title: Jose Santana
-description: Thinker // Designer // Developer
-email: j.santana2418@gmail.com
+title: Perrine Guittienne
+description: Apprentie en Design Graphique
+email: p.guittienne@outlook.fr
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
 menu:
-- {name: About Me, url: '#about-me'}
-- {name: Work, url: '#work'}
+- {name: à propos de moi, url: '#about-me'}
+- {name: Travaux, url: '#work'}
 - {name: Clients, url: '#clients'}
 - {name: Contact, url: '#contact'}
 
