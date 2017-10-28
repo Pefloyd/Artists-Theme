@@ -3,13 +3,13 @@
 
 title: Perrine Guittienne
 description: Apprentie en Design Graphique
-email: j.santana2418@gmail.com
+email: p.guittienne@outlook.fr
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
 menu:
-- {name: About Me, url: '#about-me'}
-- {name: Work, url: '#work'}
+- {name: À Propos, url: '#about-me'}
+- {name: Travaux, url: '#work'}
 - {name: Clients, url: '#clients'}
 - {name: Contact, url: '#contact'}
 
