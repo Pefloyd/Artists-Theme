@@ -101,11 +101,8 @@ clients:
 # Contact Section
 
 social:
-- {icon: 'twitter', link: 'https://twitter.com/JoseSantana2418'}
+- {icon: 'instagram', link: 'https://twitter.com/JoseSantana2418'}
 - {icon: 'facebook', link: 'https://www.facebook.com/jsantana2418'}
-- {icon: 'github', link: 'https://github.com/jsantana2418'}
-- {icon: 'google-plus', link: 'https://plus.google.com/u/0/+JoseASantanaJr/'}
-- {icon: 'linkedin', link: 'https://www.linkedin.com/in/jasantana/'}
 
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
